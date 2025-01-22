@@ -1,0 +1,1 @@
+An _in place algorithm_ is any algorithm that modifies a data structure in place without requiring additional memory, overwriting the input.
