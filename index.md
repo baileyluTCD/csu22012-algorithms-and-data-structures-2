@@ -3,4 +3,4 @@ This is my [repository](https://github.com/baileyluTCD/csu23016-concurrent-syste
 
 This course is focused on learning various useful algorithms and their complexities.
 ### Notes
-The notes for this repository can be found [here](https://baileylutcd.github.io/csu22011-algorithms-and-data-structures-1/)
+The notes for this repository can be found [here](https://baileylutcd.github.io/csu22012-algorithms-and-data-structures-2/)
