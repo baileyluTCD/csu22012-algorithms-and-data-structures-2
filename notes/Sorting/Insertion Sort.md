@@ -20,7 +20,7 @@ _Insertion Sort_ is a [[Sorting|sorting algorithm]] based on finding the correct
 ```javascript
 function insertionSort(arr) {
 	for i in range(s, arr.length - 1) {
-		comst j = i - 1;
+		const j = i - 1;
 		while j > 0 && arr[j - 1] > arr[j] {
 			swap(a[j], arr[j - 1]);
 			j--;
