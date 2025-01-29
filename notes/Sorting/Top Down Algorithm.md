@@ -1,0 +1,1 @@
+A _top down algorithm_ is one that is implemented **recursively** and calculates by running the same function on a data structure repeatedly

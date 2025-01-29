@@ -1,0 +1,1 @@
+A _bottom up algorithm_ is one that is implemented **iteratively** and calculates in a loop, i.e. `for`, `while`, etc
