@@ -11,3 +11,9 @@ devenv.local.nix
 
 # pre-commit
 .pre-commit-config.yaml
+
+# Maven build files
+target
+
+# Stripped submissions
+submission
