@@ -4,41 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "42d11da7993a235e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "789071276fd48f66",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "notes/Slides/CSU22012 2025 Lecture 3.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "CSU22012 2025 Lecture 3"
-            }
-          }
-        ]
-      },
-      {
         "id": "44fd020e5f889720",
         "type": "tabs",
         "children": [
-          {
-            "id": "817770a8a3e15674",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Sorting/Merge Sort.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Merge Sort"
-            }
-          },
           {
             "id": "937826ff33097e77",
             "type": "leaf",
@@ -52,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Top Down Algorithm"
             }
-          },
-          {
-            "id": "6816fc5bcfb7bb5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Sorting/Quick Sort.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Quick Sort"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,14 +162,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "224c72c50880dc38",
+  "active": "937826ff33097e77",
   "lastOpenFiles": [
+    "notes/Sorting/Quick Sort.md",
+    "notes/Slides/CSU22012 2025 Lecture 3.pdf",
+    "notes/Slides/CSU22012 2025 Extra Lecture 1.pdf",
+    "notes/Sorting/Merge Sort.md",
     "notes/Sorting/Bottom Up Algorithm.md",
     "notes/Sorting/Top Down Algorithm.md",
-    "notes/Sorting/Merge Sort.md",
-    "notes/Slides/CSU22012 2025 Lecture 3.pdf",
     "notes/Slides/CSU22012 2025 Lecture 2.pdf",
-    "notes/Slides/CSU22012 2025 Extra Lecture 1.pdf",
     "notes/Sorting/Insertion Sort.md",
     "labs/lab-one/src/main/java/com/tcd/lab/one/Insertion.java~",
     "labs/lab-one/src/main/java/com/tcd/lab/one/App.java~",
