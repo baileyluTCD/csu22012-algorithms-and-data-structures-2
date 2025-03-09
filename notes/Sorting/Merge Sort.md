@@ -1,3 +1,8 @@
+---
+tags:
+  - Example
+  - Sorting_Algorithm
+---
 _Merge Sort_ is a [[Sorting|sorting algorithm]] based on merging two sorted arrays to produce an output
 
 > [!example]
@@ -47,6 +52,7 @@ _Merge Sort_ is a [[Sorting|sorting algorithm]] based on merging two sorted arra
 > Out: [2, 3, 5, 23, 25]
 > ```
 > ...
+
 ---
 ### Pseudo Code
 ```elixir
@@ -57,4 +63,9 @@ def merge_sort(list) do
 end
 ```
 #### Analysis:
-$T(N) = O(n)$
+
+| Case             | Condition                                             |
+| ---------------- | ----------------------------------------------------- |
+| **Best Case**    | $\Omega(n \log n)$ if the array is already sorted     |
+| **Average Case** | $\Theta(n \log n)$ when the array is randomly ordered |
+| **Worse Case**   | $O(n \log n)$ if the array is in reverse order        |

@@ -1,3 +1,8 @@
+---
+tags:
+  - Example
+  - Sorting_Algorithm
+---
 _Selection Sort_ is a [[Sorting|sorting algorithm]] based on a swapping with the minimum value, then considering that minimum value sorted and recursively focusing on the rest of the array
 
 > [!example]

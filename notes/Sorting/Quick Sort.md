@@ -1,3 +1,8 @@
+---
+tags:
+  - Sorting_Algorithm
+  - Example
+---
 _Quick Sort_ is a [[Sorting|sorting algorithm]] based on breaking the array into sections around a pivot and sorting the sections recursively.
 
 > [!example]
@@ -30,4 +35,9 @@ def quicksort([pivot|t]) do
 end
 ```
 #### Analysis:
-$T(N) = O(n^2)$
+
+| Case             | Condition                                                                |
+| ---------------- | ------------------------------------------------------------------------ |
+| **Best Case**    | $\Omega(n \log n)$ if the pivot divides the array into equal halves      |
+| **Average Case** | $\Theta(n \log n)$ the pivot divides the array into two non equal halves |
+| **Worse Case**   | $O(n^2)$ if the pivot chosen is already the smallest or largest element  |

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Sorting/Selection Sort.md",
+                "file": "notes/Sorting/Insertion Sort.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Selection Sort"
+              "title": "Insertion Sort"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f372a0d1ce8f201c",
@@ -180,15 +181,17 @@
   },
   "active": "5e38207ff26ff43f",
   "lastOpenFiles": [
+    "notes/Sorting/Selection Sort.md",
+    "notes/Sorting/Bubble Sort.md",
+    "notes/Sorting/Merge Sort.md",
+    "notes/Sorting/Quick Sort.md",
+    "notes/Sorting/Insertion Sort.md",
     "notes/Tail Call Recursion.md",
     "notes/Sorting/Top Down Algorithm.md",
-    "notes/Sorting/Quick Sort.md",
     "notes/Slides/CSU22012 2025 Lecture 3.pdf",
     "notes/Slides/CSU22012 2025 Extra Lecture 1.pdf",
-    "notes/Sorting/Merge Sort.md",
     "notes/Sorting/Bottom Up Algorithm.md",
     "notes/Slides/CSU22012 2025 Lecture 2.pdf",
-    "notes/Sorting/Insertion Sort.md",
     "labs/lab-one/src/main/java/com/tcd/lab/one/Insertion.java~",
     "labs/lab-one/src/main/java/com/tcd/lab/one/App.java~",
     "labs/lab-one/src/main/java/com/tcd/lab/one/Bubble.java~",

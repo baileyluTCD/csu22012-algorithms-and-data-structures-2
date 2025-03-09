@@ -1,6 +1,7 @@
 ---
 tags:
   - Example
+  - Sorting_Algorithm
 ---
 _Bubble Sort_ is a [[Sorting|sorting algorithm]] based on a series of **comparison-exchange** operations.
 
