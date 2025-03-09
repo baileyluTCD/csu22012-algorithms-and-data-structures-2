@@ -34,9 +34,37 @@
               "icon": "lucide-file",
               "title": "Insertion Sort"
             }
+          },
+          {
+            "id": "083c5b3e14e644f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Graphs and Trees/Depth First Search.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Depth First Search"
+            }
+          },
+          {
+            "id": "0440f22dcbea0126",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Graphs and Trees/Breadth First Search.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Breadth First Search"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -93,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f372a0d1ce8f201c",
@@ -179,14 +206,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e38207ff26ff43f",
+  "active": "224c72c50880dc38",
   "lastOpenFiles": [
+    "notes/Graphs and Trees",
+    "notes/Graphs and Trees/Depth First Search.md",
+    "notes/Graphs and Trees/Breadth First Search.md",
+    "notes/Graphs and Trees/FS Image 1.png",
+    "notes/Graphs and Trees/FS Image 2.png",
+    "notes/Sorting/Insertion Sort.md",
     "notes/Sorting/Selection Sort.md",
     "notes/Sorting/Bubble Sort.md",
     "notes/Sorting/Quick Sort.md",
     "notes/Sorting/Merge Sort.md",
     "notes/Algorithm Complexity/Stable Sorting Algorithm.md",
-    "notes/Sorting/Insertion Sort.md",
     "notes/Tail Call Recursion.md",
     "notes/Sorting/Top Down Algorithm.md",
     "notes/Slides/CSU22012 2025 Lecture 3.pdf",
@@ -213,8 +245,6 @@
     "Sorting/Total Order.md",
     "Algorithm Complexity/Tilde Notation.md",
     "Algorithm Complexity/Order of Growth Classification.md",
-    "Algorithm Complexity/Time Complexity.md",
-    "Module Info/Marks Breakdown.md",
-    "Module Info/Timetable.md"
+    "Algorithm Complexity/Time Complexity.md"
   ]
 }
