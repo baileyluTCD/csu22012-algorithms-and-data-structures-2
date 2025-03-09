@@ -69,3 +69,7 @@ end
 | **Best Case**    | $\Omega(n \log n)$ if the array is already sorted     |
 | **Average Case** | $\Theta(n \log n)$ when the array is randomly ordered |
 | **Worse Case**   | $O(n \log n)$ if the array is in reverse order        |
+
+---
+### Stability
+_Merge Sort_ **is** a [[stable sorting algorithm]].

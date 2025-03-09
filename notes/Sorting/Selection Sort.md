@@ -38,3 +38,7 @@ function selectionSort(arr) {
 ```
 #### Analysis:
 $T(N) = O(n^2)$
+
+---
+### Stability
+_Selection Sort_ is **not** a [[stable sorting algorithm]].

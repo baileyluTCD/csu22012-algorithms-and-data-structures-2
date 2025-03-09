@@ -41,3 +41,7 @@ function insertionSort(arr) {
 | **Best Case**    | $\Omega(n)$ if the list is already sorted     |
 | **Average Case** | $\Theta(n^2)$ if the list is randomly ordered |
 | **Worse Case**   | $O(n^2)$ if the list is in reverse order      |
+
+---
+### Stability
+_Insertion Sort_ **is** a [[stable sorting algorithm]].

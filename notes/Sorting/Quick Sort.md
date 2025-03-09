@@ -41,3 +41,7 @@ end
 | **Best Case**    | $\Omega(n \log n)$ if the pivot divides the array into equal halves      |
 | **Average Case** | $\Theta(n \log n)$ the pivot divides the array into two non equal halves |
 | **Worse Case**   | $O(n^2)$ if the pivot chosen is already the smallest or largest element  |
+
+---
+### Stability
+_Quick Sort_ is **not** a [[stable sorting algorithm]].

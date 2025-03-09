@@ -183,8 +183,9 @@
   "lastOpenFiles": [
     "notes/Sorting/Selection Sort.md",
     "notes/Sorting/Bubble Sort.md",
-    "notes/Sorting/Merge Sort.md",
     "notes/Sorting/Quick Sort.md",
+    "notes/Sorting/Merge Sort.md",
+    "notes/Algorithm Complexity/Stable Sorting Algorithm.md",
     "notes/Sorting/Insertion Sort.md",
     "notes/Tail Call Recursion.md",
     "notes/Sorting/Top Down Algorithm.md",
@@ -196,7 +197,6 @@
     "labs/lab-one/src/main/java/com/tcd/lab/one/App.java~",
     "labs/lab-one/src/main/java/com/tcd/lab/one/Bubble.java~",
     "labs/lab-one/src/main/java/com/tcd/lab/one/Bubble.java",
-    "notes/Algorithm Complexity/Stable Sorting Algorithm.md",
     "readme.md",
     "index.md",
     "Sorting/Merge Sort.md",

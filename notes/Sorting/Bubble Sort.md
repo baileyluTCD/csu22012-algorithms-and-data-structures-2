@@ -41,3 +41,7 @@ function bubbleSort(arr) {
 
 #### Analysis:
 $T(N) = O(n^2)$
+
+---
+### Stability
+_Bubble Sort_ **is** a [[stable sorting algorithm]].
