@@ -1,6 +1,7 @@
 ---
 tags:
   - Example
+  - Shortest_Path_Algorithm
 ---
 _Dijkstra's Algorithm_ is a method of finding the **shortest distance** from **any node** on a graph to **all other nodes**.
 
