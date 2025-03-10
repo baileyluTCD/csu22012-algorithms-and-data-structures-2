@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Graphs and Trees/Shortest Path Algorithms/Greedy Best First Search/Greedy Best First Search.md",
+                "file": "Labs/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Greedy Best First Search"
+              "title": "README"
             }
           }
         ],
@@ -192,8 +192,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "224c72c50880dc38",
+  "active": "1c24cb7aed540ed4",
   "lastOpenFiles": [
+    "readme.md",
+    "Labs/README.md",
+    "index.md",
+    "Notes/Graphs and Trees/Shortest Path Algorithms/Greedy Best First Search/Greedy Best First Search.md",
     "devenv.nix~",
     "Notes/Graphs and Trees/Shortest Path Algorithms/Greedy Best First Search",
     "Notes/Graphs and Trees/Shortest Path Algorithms",
@@ -205,7 +209,6 @@
     "Notes/Graphs and Trees/Shortest Path Algorithms/Bellman-Ford Algorithm/Bellman-Ford Algorithm.md",
     "Notes/Graphs and Trees/Shortest Path Algorithms/Dijkstra's Algorithm/Dijkstra's Algorithm.md",
     "Notes/Graphs and Trees/Shortest Path Algorithms/Best First Search.md",
-    "Notes/Graphs and Trees/Shortest Path Algorithms/Greedy Best First Search/Greedy Best First Search.md",
     "Notes/Algorithm Classificiations/Greedy.md",
     "Notes/Algorithm Classificiations",
     "Notes/Graphs and Trees/Shortest Path Algorithms/Bellman-Ford Algorithm",
@@ -229,10 +232,7 @@
     "Notes/Sorting/Merge Sort.md",
     "Notes/Algorithm Complexity/Stable Sorting Algorithm.md",
     "Notes/Tail Call Recursion.md",
-    "Notes/Slides/CSU22012 2025 Lecture 3.pdf",
     "Notes/Sorting/Bottom Up Algorithm.md",
-    "readme.md",
-    "index.md",
     "Sorting/Merge Sort.md",
     "Sorting/Insertion Sort.md",
     "Sorting/Quick Sort.md",
