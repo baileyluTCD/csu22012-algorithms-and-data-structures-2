@@ -44,4 +44,4 @@ function insertionSort(arr) {
 
 ---
 ### Stability
-_Insertion Sort_ **is** a [[stable sorting algorithm]].
+_Insertion Sort_ **is** a [[Stable Sorting Algorithm]].

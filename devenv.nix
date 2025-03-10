@@ -15,7 +15,7 @@
         # Dumps java files with no package information into `submission/`
         def main [location: path] {
           let root = $env.DEVENV_ROOT
-          let submission = $root | path join submission
+          let submission = $root | path join Submission
 
           if not ( $location | path join pom.xml | path exists ) {
               print "No pom.xml found at the specified location. Try switching to the root of a Maven project."

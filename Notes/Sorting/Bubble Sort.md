@@ -44,4 +44,4 @@ $T(N) = O(n^2)$
 
 ---
 ### Stability
-_Bubble Sort_ **is** a [[stable sorting algorithm]].
+_Bubble Sort_ **is** a [[Stable Sorting Algorithm]].

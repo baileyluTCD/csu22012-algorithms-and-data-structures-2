@@ -41,4 +41,4 @@ $T(N) = O(n^2)$
 
 ---
 ### Stability
-_Selection Sort_ is **not** a [[stable sorting algorithm]].
+_Selection Sort_ is **not** a [[Stable Sorting Algorithm]].

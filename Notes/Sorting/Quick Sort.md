@@ -44,4 +44,4 @@ end
 
 ---
 ### Stability
-_Quick Sort_ is **not** a [[stable sorting algorithm]].
+_Quick Sort_ is **not** a [[Stable Sorting Algorithm]].

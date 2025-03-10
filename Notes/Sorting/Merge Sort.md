@@ -72,4 +72,4 @@ end
 
 ---
 ### Stability
-_Merge Sort_ **is** a [[stable sorting algorithm]].
+_Merge Sort_ **is** a [[Stable Sorting Algorithm]].

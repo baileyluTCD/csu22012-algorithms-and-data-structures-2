@@ -3,19 +3,19 @@ tags:
   - Example
   - Shortest_Path_Algorithm
 ---
-A _[[greedy]] [[Best First Search]]_ is a specific, **defined algorithm** which takes a [[greedy]] approach to a [[Best First Search]].
+A _[[Greedy]] [[Best First Search]]_ is a specific, **defined algorithm** which takes a [[Greedy]] approach to a [[Best First Search]].
 
 This is often a better choice than [[Dijkstra's Algorithm]] or similar algorithms which evaluate the distance to every node if you just need the distance between two specific nodes.
 
 > [!info]
-> To run a _[[greedy]] [[Best First Search]]_:
+> To run a _[[Greedy]] [[Best First Search]]_:
 > 1. Use the [[Best First Search|heuristic function]] provided to get an estimate of each path's cost.
 > 2. Expand the path with the lowest expected cost ([[Greedy|greedily]]).
 > 3. Repeat this until the goal is reached, producing an **approximation** for the shortest path.
 
 ---
 ### Example
-Find the **shortest path** for the following graph, using the _[[greedy]] [[Best First Search]]_ algorithm.
+Find the **shortest path** for the following graph, using the _[[Greedy]] [[Best First Search]]_ algorithm.
 
 > [!note]
 >  The green numbers above the nodes indicated the value returned by the [[Best First Search|heuristic function]].
