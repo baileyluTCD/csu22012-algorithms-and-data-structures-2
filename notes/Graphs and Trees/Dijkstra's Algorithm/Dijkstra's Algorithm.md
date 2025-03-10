@@ -8,6 +8,9 @@ Starting with a **given node**, expand iteratively to it's **neighbours** and ma
 
 A node is considered **closed** when it's shortest path has been found.
 
+> [!info]
+> _Dijkstra's Algorithm_ is **faster** than the [[Bellman-Ford Algorithm]] with an $O(E \log V)$ runtime, however it isn't capable of handling as much cases, such as **negative edge weights**. See [[Bellman-Ford Algorithm#Handling negative weights|the handling negative weights section]] for more.
+
 ---
 ### Example
 Starting with `a` and using alphabetical order in case of ties:
