@@ -16,18 +16,23 @@ The _Bellman-Ford Algorithm_ is capable of detecting **negative cycles**, which 
 
 > [!example]
 > ![[Negative Cycle Image.png]]
+> 
 > Here, **no shortest path** exists because simply looping around `1` -> `2` -> `3` repeatedly will result in a lower total weight. (i.e. $3+2-6 = -1$)
 
 ---
 ### Example
 Starting with this graph at node $A$, **find the shortest paths**. Note the presence of a **negative weight**.
 ![[Bellman-Ford Example Image 1.png]]
+
 #### Step 1
 ![[Bellman-Ford Example Image 2.png]]
+
 Assign the weight $0$ to $A$, the starting node and $\infty$ to all other nodes.
 #### Step 2
 ![[Bellman-Ford Example Image 3.png]]
+
 Visit each edge and relax the path distances if they are inaccurate.
 #### Step 3
 ![[Bellman-Ford Example Image 4.png]]
+
 Repeat this at most $V$ times, updating the distance if a smaller path from a neighbouring vertex exists.

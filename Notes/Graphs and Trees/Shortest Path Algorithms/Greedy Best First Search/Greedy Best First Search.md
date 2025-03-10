@@ -24,6 +24,7 @@ Find the **shortest path** for the following graph, using the _[[Greedy]] [[Best
 
 ---
 ![[Greedy Best First Search Example 2.png]]
+
 Here, the choices we have are:
 
 | Node | Distance |
@@ -35,6 +36,7 @@ Clearly, $C$ has the smallest [[Best First Search|heuristic function]] returned 
 
 ---
 ![[Greedy Best First Search Example 3.png]]
+
 Here, the choices we have are:
 
 | Node | Distance |
@@ -45,4 +47,5 @@ Clearly, $F$ has the smallest [[Best First Search|heuristic function]] returned 
 
 ---
 ![[Greedy Best First Search Example 4.png]]
+
 Finally, $F$ connects directly to $G$, the goal node, hence we can complete our shortest path.

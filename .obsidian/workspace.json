@@ -27,30 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Graphs and Trees/Shortest Path Algorithms/Bellman-Ford Algorithm/Bellman-Ford Algorithm.md",
+                "file": "Notes/Graphs and Trees/Shortest Path Algorithms/Greedy Best First Search/Greedy Best First Search.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bellman-Ford Algorithm"
-            }
-          },
-          {
-            "id": "1c24cb7aed540ed4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Labs/README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "title": "Greedy Best First Search"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"![[",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -192,10 +179,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c24cb7aed540ed4",
+  "active": "9a4fb496e15a0bc7",
   "lastOpenFiles": [
-    "readme.md",
+    "Notes/Graphs and Trees/Shortest Path Algorithms/Dijkstra's Algorithm/Dijkstra's Algorithm.md",
+    "Notes/Graphs and Trees/Searching Algorithms/Depth First Search.md",
+    "Notes/Graphs and Trees/Searching Algorithms/Breadth First Search.md",
+    "Notes/Graphs and Trees/Shortest Path Algorithms/Bellman-Ford Algorithm/Bellman-Ford Algorithm.md",
     "Labs/README.md",
+    "readme.md",
     "index.md",
     "Notes/Graphs and Trees/Shortest Path Algorithms/Greedy Best First Search/Greedy Best First Search.md",
     "devenv.nix~",
@@ -206,8 +197,6 @@
     "Notes/Graphs and Trees/Shortest Path Algorithms/Greedy Best First Search/Greedy Best First Search Example 3.png",
     "Notes/Graphs and Trees/Shortest Path Algorithms/Greedy Best First Search/Greedy Best First Search Example 2.png",
     "Notes/Graphs and Trees/Shortest Path Algorithms/Greedy Best First Search/Greedy Best First Search Example 1.png",
-    "Notes/Graphs and Trees/Shortest Path Algorithms/Bellman-Ford Algorithm/Bellman-Ford Algorithm.md",
-    "Notes/Graphs and Trees/Shortest Path Algorithms/Dijkstra's Algorithm/Dijkstra's Algorithm.md",
     "Notes/Graphs and Trees/Shortest Path Algorithms/Best First Search.md",
     "Notes/Algorithm Classificiations/Greedy.md",
     "Notes/Algorithm Classificiations",
@@ -222,9 +211,7 @@
     "Notes/Graphs and Trees/Searching Algorithms",
     "Notes/Graphs and Trees/Shortest Path Algorithms/Dijkstra's Algorithm",
     "Dijkstra's Algorithm.md~",
-    "Notes/Graphs and Trees/Searching Algorithms/Breadth First Search.md",
     "Notes/Graphs and Trees",
-    "Notes/Graphs and Trees/Searching Algorithms/Depth First Search.md",
     "Notes/Sorting/Insertion Sort.md",
     "Notes/Sorting/Selection Sort.md",
     "Notes/Sorting/Bubble Sort.md",
