@@ -3,53 +3,61 @@ tags:
   - Example
   - Sorting_Algorithm
 ---
-_Merge Sort_ is a [[Sorting|sorting algorithm]] based on merging two sorted arrays to produce an output
+_Merge Sort_ is a [[Sorting|sorting algorithm]] based on merging two **sorted** arrays to produce an output
 
 > [!example]
 > Input:
 > ```
-> [23, 2, 3, 5, 28]
-> [25, 7, 6, 8, 9]
+> [2, 3, 5, 28]
+> [6, 7, 8, 9]
 > ```
 >
 > Iteration 0:
 > ```
-> [23, 2, 3, 5, 28]
-> [25, 7, 6, 8, 9]
+> [2, 3, 5, 28]
+> [6, 7, 8, 9]
 >
-> 23 < 25
+> 2 < 6
 > 
-> Out: [23]
+> Out: [2]
 >
 > ```
 > Iteration 1:
 > ```
-> [2, 3, 5, 28]
-> [25, 7, 6, 8, 9]
+> [3, 5, 28]
+> [6, 7, 8, 9]
 >
-> 2 < 25
+> 3 < 6
 > 
-> Out: [2, 23]
+> Out: [2, 3]
 > ```
 > 
 > Iteration 2:
 > ```
-> [3, 5, 28]
-> [25, 7, 6, 8, 9]
+> [5, 28]
+> [6, 7, 8, 9]
 >
-> 3 < 25
+> 5 < 6
 > 
-> Out: [2, 3, 23]
+> Out: [2, 3, 5]
 > ```
 > ... 
-> Iteration 5:
+> Iteration 3:
 > ```
-> [3, 5, 28]
-> [25, 7, 6, 8, 9]
+> [28]
+> [6, 7, 8, 9]
 >
-> 28 > 25
+> 6 > 28
 > 
-> Out: [2, 3, 5, 23, 25]
+> Out: [2, 3, 5, 6]
+> ```
+> ... 
+> Iteration 7:
+> ```
+> []
+> []
+> 
+> Out: [2, 3, 5, 6, 7, 8, 9, 28]
 > ```
 > ...
 
