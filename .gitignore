@@ -2,6 +2,9 @@
 
 *target/
 
+# Obsidian
+.obsidian
+
 # Devenv
 .devenv*
 devenv.local.nix
