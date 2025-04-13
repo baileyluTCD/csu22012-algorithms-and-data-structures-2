@@ -1,0 +1,1 @@
+An **augmenting path** is a path from the **source node** to the **sink node** with the purpose of allowing for extra total [[Flow Network|flow]] out of the [[Flow Network|flow network]].
