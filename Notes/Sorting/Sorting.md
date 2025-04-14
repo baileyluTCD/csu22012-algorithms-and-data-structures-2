@@ -16,3 +16,4 @@ There are a number of useful algorithms which we may use in specific cases based
 - [[Insertion Sort]]
 - [[Quick Sort]]
 - [[Merge Sort]]
+- [[Radix Sort]]
