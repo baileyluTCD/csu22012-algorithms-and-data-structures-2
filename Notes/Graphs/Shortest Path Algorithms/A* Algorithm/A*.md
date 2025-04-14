@@ -3,7 +3,7 @@ tags:
   - Example
   - Shortest_Path_Algorithm
 ---
-The _A*_ algorithm is a popular [[best first search]] algorithm for finding the **shortest path** between **two known nodes**.
+The _A*_ algorithm is a popular [[Best First Search]] algorithm for finding the **shortest path** between **two known nodes**.
 
 > [!info]
 > The _A*_ algorithm uses two pieces of information in order to make an **estimate** about how optimal a given node is:
