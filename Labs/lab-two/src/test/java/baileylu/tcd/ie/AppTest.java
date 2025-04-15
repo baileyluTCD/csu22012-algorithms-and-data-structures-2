@@ -21,3 +21,11 @@ public class AppTest {
         assertArrayEquals(arr, expected);
     }
 }
+pivot) {
+        Comparable val = arr[pivot];
+
+        for (int i = 0; i < pivot; i++)
+            assert arr[i].compareTo(val) <= 0
+                    : "All parts of the first section must be less than `val` " + arr[i] + " !<= " + val;
+
+        for (int i = pivot
