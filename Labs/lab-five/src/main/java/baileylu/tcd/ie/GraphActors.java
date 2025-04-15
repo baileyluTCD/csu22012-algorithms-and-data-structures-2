@@ -1,11 +1,9 @@
+package baileylu.tcd.ie;
+
 import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.List;
 
-/**
- *
- *
- */
 public class GraphActors {
 
     private ActorIndex actorIndex;
@@ -16,6 +14,7 @@ public class GraphActors {
     /**
      * Initializes an empty graph with <em>V</em> vertices
      */
+    @SuppressWarnings("unchecked")
     public GraphActors(int V) {
         this.V = V;
         this.E = 0;
