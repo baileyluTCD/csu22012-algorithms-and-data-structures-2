@@ -1,6 +1,6 @@
 package baileylu.tcd.ie;
 
-import static org.junit.jupiter.api.Assertions.assertTrue;
+import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 
 import org.junit.jupiter.api.Test;
 
@@ -10,10 +10,14 @@ import org.junit.jupiter.api.Test;
 public class AppTest {
 
     /**
-     * Rigorous Test :-)
+     * Ensure sorting a simple array works
      */
     @Test
-    public void shouldAnswerWithTrue() {
-        assertTrue(true);
+    public void testBasicSort() {
+        Integer[] arr = new Integer[] { 4, 2, 3, 9, 1 };
+        App.sort(arr);
+
+        Integer[] expected = new Integer[] { 1, 2, 3, 4, 9 };
+        assertArrayEquals(arr, expected);
     }
 }
