@@ -1,3 +1,7 @@
+---
+tags:
+  - Example
+---
 A _topological sort_ is a **linear ordering** of **vertices** for a **directed tree**, such that, for each vertex $V$ connected to $U$, $V$ comes **before** $U$ in the ordering.
 
 > [!question] Usage
