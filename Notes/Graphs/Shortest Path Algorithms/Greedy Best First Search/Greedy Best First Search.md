@@ -2,6 +2,7 @@
 tags:
   - Example
   - Shortest_Path_Algorithm
+  - Complexity
 ---
 A _[[Greedy]] [[Best First Search]]_ is a specific, **defined algorithm** which takes a [[Greedy]] approach to a [[Best First Search]].
 
@@ -12,6 +13,15 @@ This is often a better choice than [[Dijkstra's Algorithm]] or similar algorithm
 > 1. Use the [[Best First Search|heuristic function]] provided to get an estimate of each path's cost.
 > 2. Expand the path with the lowest expected cost ([[Greedy|greedily]]).
 > 3. Repeat this until the goal is reached, producing an **approximation** for the shortest path.
+
+---
+### Complexity
+The **complexity values** for the _[[Greedy]] [[Best First Search]]_ are:
+
+| Aspect | Complexity   |
+| ------ | ------------ |
+| Time   | $O(B^{d_m})$ |
+| Space  | $O(B^{d_m})$ |
 
 ---
 ### Example

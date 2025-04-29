@@ -2,6 +2,7 @@
 tags:
   - Example
   - Shortest_Path_Algorithm
+  - Complexity
 ---
 The _Bellman-Ford Algorithm_ is a method of finding the **shortest distance** from **any node** on a graph to **all other nodes**.
 
@@ -9,6 +10,15 @@ The _Bellman-Ford Algorithm_ is a method of finding the **shortest distance** fr
 > Compared to [[Dijkstra's Algorithm]] it is **slower** with an $O(VE)$ runtime, however it is more **versatile**, for example, it is able to handle cases where **edge weights** are **negative** or to be implemented in a **distributed manner**. See [[Bellman-Ford Algorithm#Handling negative weights|the handling negative weights section]] for more.
 
 Similar to [[Dijkstra's Algorithm]], the _Bellman-Ford Algorithm_ proceeds by recursively expanding to each **node's neighbours** and maintaining a **table of approximations**, however **instead** of a priority queue like approach, the _Bellman-Ford Algorithm_ iterates over **every vertex in the graph**.
+
+---
+### Complexity
+The **complexity values** for the _Bellman-Ford Algorithm_ are:
+
+| Aspect | Complexity |
+| ------ | ---------- |
+| Time   | $O(VE)$    |
+| Space  | $O(V)$     |
 
 ---
 ### Handling negative weights

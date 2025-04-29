@@ -2,6 +2,7 @@
 tags:
   - Example
   - Shortest_Path_Algorithm
+  - Complexity
 ---
 The _A*_ algorithm is a popular [[Best First Search]] algorithm for finding the **shortest path** between **two known nodes**.
 
@@ -17,6 +18,15 @@ The _A*_ algorithm is a popular [[Best First Search]] algorithm for finding the 
 > 1. Add the neighbours of the **starting node** to the **open set**/**frontier**.
 > 2. Select the member of the **open set**/**frontier** with the lowest $f(x)$ value, and expand it's neighbours, adding them to the **open set**/**frontier**.
 > 3. Continue until the **goal node** is reached.
+
+---
+### Complexity
+The **complexity values** for _A*_ are:
+
+| Aspect | Complexity |
+| ------ | ---------- |
+| Time   | $O(E)$     |
+| Space  | $O(V)$     |
 
 ---
 ### Example

@@ -2,6 +2,7 @@
 tags:
   - Example
   - Shortest_Path_Algorithm
+  - Complexity
 ---
 _Dijkstra's Algorithm_ is a method of finding the **shortest distance** from **any node** on a graph to **all other nodes**.
 
@@ -11,6 +12,16 @@ A node is considered **closed** when it's shortest path has been found.
 
 > [!info]
 > _Dijkstra's Algorithm_ is **faster** than the [[Bellman-Ford Algorithm]] with an $O(E \log V)$ runtime, however it isn't capable of handling as much cases, such as **negative edge weights**. See [[Bellman-Ford Algorithm#Handling negative weights|the handling negative weights section]] for more.
+
+---
+### Complexity
+The **complexity values** for _Dijkstra's Algorithm_ are:
+
+| Aspect | Complexity         |
+| ------ | ------------------ |
+| Time   | $O((V + E) log V)$ |
+| Space  | $O(V)$             |
+
 
 ---
 ### Example
