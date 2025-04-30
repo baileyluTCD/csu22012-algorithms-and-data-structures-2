@@ -29,6 +29,9 @@ The _Bellman-Ford Algorithm_ is capable of detecting **negative cycles**, which 
 > 
 > Here, **no shortest path** exists because simply looping around `1` -> `2` -> `3` repeatedly will result in a lower total weight. (i.e. $3+2-6 = -1$)
 
+> [!note]
+> It is primarily able to handle **negative weight  edges** as it will do a maximum of $V-1$ **relaxation steps**, hence, a cycle will **not effect** the overall result by causing an **infinite loop**.
+
 ---
 ### Example
 Starting with this graph at node $A$, **find the shortest paths**. Note the presence of a **negative weight**.
