@@ -21,6 +21,11 @@ The **complexity values** for the _Floyd-Warshall Algorithm_ are:
 | Space  | $O(V^2)$   |
 
 ---
+### Formula
+The mathematical formula representing the _Floyd-Warshall Algorithm_ is:
+$$d^k_{ij} = min (d^{k-1}_{ij}, d^{k-1}_{ik}, d^{k-1}_{kj})$$
+
+---
 ### Example
 ![[Floyd-Warshall Example.png]]
 
